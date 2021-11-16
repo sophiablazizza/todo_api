@@ -1,0 +1,17 @@
+{
+  "name": "todo_api",
+  "version": "1.0.0",
+  "description": "todo_api modulo 4",
+  "main": "index.js",
+ "scripts": {
+    "start": "nodemon src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "modules": "^0.4.0"
+  }
+}
